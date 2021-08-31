@@ -1,0 +1,2 @@
+# AndroidTest
+Android template application
